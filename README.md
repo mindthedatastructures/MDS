@@ -7,7 +7,7 @@ Hashtag : `#MindDS`
 
 "Mind Data Structures, the False Self Anatomy and the AutoImmune Chain Reaction" is the result of a project with 2 different aspects.
 
-On one hand it is a book proposing a point of view with some basics to talk about the mind, to build a better understanding of its working and role and to apreciate the very confusing and distractive structures that can appear. This understanding has the intensions to lead to a better society. The book is available in this page under the name `book.pdf`.
+On one hand it is a book proposing a point of view with some basics to talk about the mind, to build a better understanding of its working and role and to apreciate the very confusing and distractive structures that can appear. This understanding has the intensions to lead to a better society. The book is available in this page under the name `book.pdf` (NOT YET PUBLISHED, STAY TUNNED)
 
 On the other hand, it is a Non Fungible Token (NFT) collection on the Cardano Network. Each NFT contains the book previously mentioned plus a unique cover for the book.
 

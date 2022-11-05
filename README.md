@@ -13,6 +13,9 @@ On the other hand, it is a Non Fungible Token (NFT) collection on the Cardano Ne
 
 In this README there will be an overview of the two aspects, first the artistic NFT collection aspect, then the conceptual book content aspect.
 
+# Youtube Videos
+NFT aspect Explanation: https://youtu.be/XzrXipTPLcI
+
 # NFT Aspect
 
 ![Examples of the different Covers](imgs/my_gif.gif)

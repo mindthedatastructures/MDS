@@ -37,7 +37,11 @@ The cover image is composed of the following elements:
 
 ## How to Buy an NFT
 
-The NFTs are being listed in https://jpg.store , https://cnft.io and maybe others. Be sure to check that the policy ID of the NFT is `82315ca6413d7aff8d5fe00d991c13fe5a211ecad7121850206d6a8a`. The NFT will be exhanged by Ada, that is the crypto currency of the Cardano Network, available in most crypto exchanges.
+The NFTs are being listed in https://jpg.store , https://cnft.io and maybe others. The list of the initial listings can be found [here](https://github.com/mindthedatastructures/MDS/blob/main/listings.json)
+
+Be sure to check that the policy ID of the NFT is `82315ca6413d7aff8d5fe00d991c13fe5a211ecad7121850206d6a8a`.
+
+The NFT will be exhanged by Ada, that is the crypto currency of the Cardano Network, available in most crypto exchanges.
 
 https://cnft.io/project/mind-data-structures
 https://jpg.store/collections/1bf426595cb6d02e2cd0ef2ed94ca8b8d9d91bcc6e15d9e7c4638b30

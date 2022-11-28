@@ -13,8 +13,9 @@ On the other hand, it is a Non Fungible Token (NFT) collection on the Cardano Ne
 
 In this README there will be an overview of the two aspects, first the artistic NFT collection aspect, then the conceptual book content aspect.
 
-# Youtube Videos
-NFT aspect Explanation: https://youtu.be/XzrXipTPLcI
+# Youtube Videos and Medium Articles
+- NFT aspect Explanation: https://youtu.be/XzrXipTPLcI
+- Biological base: Chapter 1 - The Mind is a Virtual Organ - https://medium.com/@mindthedatastructures/the-mind-is-a-virtual-organ-bddbba61f4ff
 
 # NFT Aspect
 

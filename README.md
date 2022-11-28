@@ -1,6 +1,6 @@
 # Mind Data Structures, the False Self Anatomy and the Auto-Immune Chain Reaction
 
-![Mind Data Structures #2022](imgs/2022.png)
+![Mind Data Structures](imgs/my_gif.gif)
 
 Cardano Minting Policy Id: `1bf426595cb6d02e2cd0ef2ed94ca8b8d9d91bcc6e15d9e7c4638b30`
 Hashtag : `#MindDS`
@@ -20,8 +20,6 @@ In this README there will be an overview of the two aspects, first the artistic 
 - Epistemological base: Chapter 2 - Representations and the Mind - https://medium.com/@mindthedatastructures/representations-and-the-mind-1b14c090f5ee
 
 # NFT Aspect
-
-![Examples of the different Covers](imgs/my_gif.gif)
 
 Each NFT is composed of a PDF File containing the book, and the cover image for that book.
 

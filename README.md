@@ -15,7 +15,9 @@ In this README there will be an overview of the two aspects, first the artistic 
 
 # Youtube Videos and Medium Articles
 - NFT aspect Explanation: https://youtu.be/XzrXipTPLcI
-- Biological base: Chapter 1 - The Mind is a Virtual Organ - https://medium.com/@mindthedatastructures/the-mind-is-a-virtual-organ-bddbba61f4ff
+- Biological base: Chapter 1 - The Mind is a Virtual Organ
+	- https://medium.com/@mindthedatastructures/the-mind-is-a-virtual-organ-bddbba61f4ff
+- Epistemological base: Chapter 2 - Representations and the Mind - https://medium.com/@mindthedatastructures/representations-and-the-mind-1b14c090f5ee
 
 # NFT Aspect
 

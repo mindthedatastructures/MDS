@@ -1,3 +1,5 @@
+[LINKS](https://url.bio/minddatastructs)
+
 # Mind Data Structures, the False Self Anatomy and the Auto-Immune Chain Reaction
 
 ![Mind Data Structures](imgs/my_gif.gif)

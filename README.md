@@ -59,3 +59,5 @@ Once you hold the NFT, you can move it to other accounts or list it in other sit
 
 # Book Aspect
 The book and the book's description will soon be available!
+Checkout the first 2 chapters [here](https://medium.com/@mindthedatastructures/the-mind-is-a-virtual-organ-bddbba61f4ff) and [here](https://medium.com/@mindthedatastructures/representations-and-the-mind-1b14c090f5ee)
+

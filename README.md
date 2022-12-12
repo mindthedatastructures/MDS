@@ -2,6 +2,10 @@
 
 # Mind Data Structures, the False Self Anatomy and the Auto-Immune Chain Reaction
 
+IMPORTANT: I found many contradictions in the text, the subject is too ambitious, I'm stopping it for now.
+I will put my head away from this now. 
+
+
 ![Mind Data Structures](imgs/my_gif.gif)
 
 Cardano Minting Policy Id: `1bf426595cb6d02e2cd0ef2ed94ca8b8d9d91bcc6e15d9e7c4638b30`
